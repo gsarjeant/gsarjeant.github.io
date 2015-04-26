@@ -1,8 +1,8 @@
 # Site settings
-title: Greg Sarjeant
-#email: your-email@domain.com
+title: Amorphous Solid
+email: gsarjeant@amorphoussolid.net
 description: > # this means to ignore newlines until "baseurl:"
-  I write to think, but I've fallen out of the habit.
+        Ill-defined by design.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://gsarjeant.github.io" # the base hostname & protocol for your site
 twitter_username: gregsarjeant
