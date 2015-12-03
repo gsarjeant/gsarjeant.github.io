@@ -24,6 +24,8 @@ I've never spoken to Tesla. A couple of weeks ago, I was taking out the trash an
 
 There is a communal trash compactor a couple of blocks from our unit. I like to walk to it - it's a reminder of the more urban life we left when we moved here. It can be reached from a set of stairs in the front or an inclined path that wraps around the back. As I approached it after my encounter with Tesla, I saw a huge pile of trash blocking the steps. The pile of trash was so large that I had to walk around the compactor to get to it.
 
-I threw my trash out and looked at the pile at the steps. It was as though the entire complex decided to leave their garbage out in the open. It looked ugly. It smelled bad. But worst was 
+I threw my trash out and looked at the pile at the steps. It was as though the entire complex decided to leave their garbage out in the open. I couldn't pull my eyes from the pile. It looked like indifference. It smelled of resignation. I decided I couldn't leave it there, so I walked over and started picking up the bags and throwing them in the compactor.
+
+After about 5 minutes, the trash was gone. The next person to walk by wouldn't know that it had been there. I went down the newly-revealed stairs to make my way back home, but stopped to look back at the compactor. It looked much better without the trash there, and I felt much better seeing the area clean.. 
 
 
