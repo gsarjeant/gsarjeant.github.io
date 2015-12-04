@@ -26,6 +26,13 @@ There is a communal trash compactor a couple of blocks from our unit. I like to 
 
 I threw my trash out and looked at the pile at the steps. It was as though the entire complex decided to leave their garbage out in the open. I couldn't pull my eyes from the pile. It looked like indifference. It smelled of resignation. I decided I couldn't leave it there, so I walked over and started picking up the bags and throwing them in the compactor.
 
-After about 5 minutes, the trash was gone. The next person to walk by wouldn't know that it had been there. I went down the newly-revealed stairs to make my way back home, but stopped to look back at the compactor. It looked much better without the trash there, and I felt much better seeing the area clean.. 
+After about 5 minutes, the trash was gone. The next person to walk by wouldn't know that it had been there. I went down the newly-revealed stairs to make my way back home, but stopped to look back at the compactor. It looked much better without the trash there, and I felt much better seeing the area clean.
+
+I turned onto my street and saw Tesla in his driveway, still on the phone. This time I decided to take the short way home.
+
+# describe the loop
+# more metaphorical about the trash pile
+# Start more directly
+# Flesh out details, but not so much as to distract.
 
 
