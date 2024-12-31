@@ -50,6 +50,18 @@
       I am a human on the Internet.
     </p>
 
+    <p class="p-note">
+      These are things I have written.
+    </p>
+    
+    <ul>
+      {% for post in site.posts %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+
     <ul>
       <!-- Replace __this_page__ with your domain -->
       <li><a class="u-uid u-url" href="https://gsarjeant.github.io">My New Website</a></li>
