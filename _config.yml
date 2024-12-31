@@ -3,4 +3,5 @@ plugins:
 title: Greg's Place
 description: Greg's Place
 Author: Greg Sarjeant
+timezone: America/New_York
 theme: minima
