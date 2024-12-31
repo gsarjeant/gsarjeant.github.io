@@ -1,5 +1,5 @@
 ---
-title:  "Is this thing on?"
+title:  "Is this thing still on?"
 ---
 
 # Let's see what happens now
