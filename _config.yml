@@ -11,5 +11,5 @@ minima:
   social_links:
     - { platform: github,  user_url: "https://github.com/gsarjeant/" }
     - { platform: microdotblog, user_url: "https://micro.blog/subcultureofone" }
-  header_pages:
-    - _pages/about.md
+header_pages:
+  about.md
