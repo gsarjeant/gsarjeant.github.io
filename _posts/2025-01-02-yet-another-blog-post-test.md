@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Try again"
 ---
 
 Here we go. Yet another test.
