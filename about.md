@@ -17,4 +17,4 @@ How often are we judged by others? How often is that judgment based on misconcep
 
 There's a lot wrapped up in the phrase. A fun time of my youth. A place I loved. A silly old/young misunderstanding. But today it mostly reminds me to be thankful for my tailwinds and to be mindful of others' headwinds
 
-The tale doesn't end there. It $also has an element of the absurd. I tried - and failed - to dye the "N" purple. The circumstances of that failure make a good story of their own. One for another time.
+The tale doesn't end there. It also has an element of the absurd. I tried - and failed - to dye the "N" purple. The circumstances of that failure make a good story of their own. One for another time.
