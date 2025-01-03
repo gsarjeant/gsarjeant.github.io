@@ -3,7 +3,7 @@ layout: base
 ---
 ## I'm Greg Sarjeant
 
-I am a human on the Internet.
+I am a human. This is my space on the Internet.
 
 These are things I have written most recently.
     
