@@ -13,4 +13,5 @@ minima:
     - { platform: microdotblog, user_url: "https://micro.blog/subcultureofone" }
     - { platform: mastodon, user_url: "https://mastodon.social/@subcultureofone" }
 header_pages:
-  about.md
+  - posts.md
+  - about.md

@@ -3,7 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-The year: 1995. I: a senior at Northwestern University. Northwestern University: an institution that forgot its football team was supposed to be abysmal. Northwestern University football: 10-1 and going to the Rose Bowl.
+The year: 1995. I: a senior at Northwestern University. 
+
+Northwestern, after decades of futility in football, somehow found itself 10-1 and going to the Rose Bowl.
 
 I did the only reasonable thing. I asked my girlfriend to shave my head, except for an "N" in the back. She did the only reasonable thing. She shaved an N into my head. Today, she's my wife.
 
